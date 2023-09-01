@@ -1,7 +1,10 @@
 ﻿using System.Runtime.Intrinsics.Arm;
 using Bash;
 
+Fish wanda = new();
+// wanda.ResetHp();
 
+Fish henry = new();
 
 
 Console.ReadLine();
